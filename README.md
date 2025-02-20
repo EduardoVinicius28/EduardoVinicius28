@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-Rede de computadores<br>-Cyber-segurança<br>-Hardware<br>-Eletrônica<br>-Hacking</p>
+<p align="left">-Rede de computadores<br>-Cyber-segurança<br>-Hacking<br>-Hardware<br>-Eletrônica</p>
 
 ###
 
